@@ -2,7 +2,7 @@
   "name": "serverless-runtime",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "kaueoliveirac11@gmail.com",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -26,7 +26,8 @@
     "@vendia/serverless-express": "^4.12.6",
     "aws-lambda": "^1.0.7",
     "reflect-metadata": "^0.2.0",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.1",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.0.0",

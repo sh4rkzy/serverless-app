@@ -22,4 +22,8 @@ functions:
     - http:
         method: any
         path: /{proxy+}
+    - http:
+        method: any
+        path: /doc
+        cors: true
 
